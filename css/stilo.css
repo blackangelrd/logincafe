@@ -1,0 +1,55 @@
+body{
+	background: #171d1f;
+	text-align: center;
+}
+
+table{
+
+	background: #b74646;
+	border-style: groove;
+	border-radius: 23px;
+	padding: 23px;
+	margin-left: 30%;
+	margin-top: 10%;
+
+}
+
+.logo{
+	width: 220px;
+	height: 100px;
+	border-radius: 22px;
+}
+
+p{
+	color: #0a0e42;
+	font-family: arial;
+	font-size: 22px;
+
+}
+
+input{
+	background: #333333;
+	color: #ddd;
+	font-size: 20px;
+	text-align: center;
+	border-radius: 22px;
+	max-width: 200px;
+}
+
+input:hover{
+	background: white;
+	color: #000;
+}
+
+.boton{
+	background: white;
+	color: black;
+	border-radius: 15px;
+	transition: 1s;
+}
+
+.boton:hover{
+	background: #4fd000;
+
+}
+
